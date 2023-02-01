@@ -1,0 +1,11 @@
+metrics:
+  inbound:
+    methodPathRegexToMetricName:
+      "[GET-/api/users]": getUsers
+      "[POST-/api/users]": createUser
+    excludedPathsRegex:
+      - GET-.*/private/.*
+    ignoreUnknownUri: false
+  outbound:
+    methodPathRegexToMetricName:
+      "[GET-/api/users]": getUsers
