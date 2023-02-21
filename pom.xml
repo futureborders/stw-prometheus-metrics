@@ -6,7 +6,7 @@
 
   <groupId>uk.gov.cabinetoffice.bpdg.stw</groupId>
   <artifactId>stw-prometheus-metrics</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.4</version>
 
   <name>stw-prometheus-metrics</name>
   <description>Records custom Prometheus metrics</description>
