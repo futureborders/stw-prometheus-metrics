@@ -16,7 +16,7 @@
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
     <prometheus.version>0.0.10</prometheus.version>
-    <spring.boot.version>2.6.6</spring.boot.version>
+    <spring.boot.version>2.7.18</spring.boot.version>
     <junit.jupiter.version>5.9.1</junit.jupiter.version>
     <junit.platform.version>1.9.1</junit.platform.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
